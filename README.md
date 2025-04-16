@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Afzal Vepari  
 #### 💻 Full Stack Web Developer | MERN Stack Enthusiast  
 
-![Full Stack Developer Banner](https://github.com/afzalveparii/afzalveparii/github-header-image%20(1).png)
+![Full Stack Developer Banner](https://github.com/afzalveparii/afzalveparii/blob/main/github-header-image%20(1).png)
 
 I’m Afzal from **Viramgam, Gujarat** — a passionate Full Stack Developer who loves building modern, responsive, and real-world web applications.
 
